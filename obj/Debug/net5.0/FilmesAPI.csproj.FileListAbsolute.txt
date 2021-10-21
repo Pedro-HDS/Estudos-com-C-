@@ -93,3 +93,5 @@ C:\Users\PedroH\Documents\ESTUDO\FilmesAPI\FilmesAPI\obj\Debug\net5.0\FilmesAPI.
 C:\Users\PedroH\Documents\ESTUDO\FilmesAPI\FilmesAPI\obj\Debug\net5.0\ref\FilmesAPI.dll
 C:\Users\PedroH\Documents\ESTUDO\FilmesAPI\FilmesAPI\obj\Debug\net5.0\FilmesAPI.pdb
 C:\Users\PedroH\Documents\ESTUDO\FilmesAPI\FilmesAPI\obj\Debug\net5.0\FilmesAPI.genruntimeconfig.cache
+C:\Users\PedroH\Documents\ESTUDO\FilmesAPI\FilmesAPI\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\PedroH\Documents\ESTUDO\FilmesAPI\FilmesAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
